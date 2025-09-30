@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=DVD
+comment1.params=title\ price\ rentalPeriod\ overduePricePerDay
+comment1.target=DVD(java.lang.String,\ int,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=
+comment3.target=int\ getPrice()
+comment4.params=
+comment4.target=int\ getRentalPeriod()
+comment5.params=
+comment5.target=int\ getOverduePricePerDay()
+comment6.params=title
+comment6.target=void\ setTitle(java.lang.String)
+comment7.params=price
+comment7.target=void\ setPrice(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

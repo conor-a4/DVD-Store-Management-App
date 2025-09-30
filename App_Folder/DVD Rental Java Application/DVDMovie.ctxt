@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DVDMovie
+comment1.params=title\ price\ rentalPeriod\ overduePricePerDay\ length\ director
+comment1.target=DVDMovie(java.lang.String,\ int,\ int,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getLength()
+comment3.params=
+comment3.target=java.lang.String\ getDirector()
+comment4.params=length
+comment4.target=void\ setLength(int)
+comment5.params=director
+comment5.target=void\ setDirector(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

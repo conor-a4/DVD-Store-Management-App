@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DBTools
+comment1.params=store\ filename
+comment1.target=void\ loadDatabase(RentalStore,\ java.lang.String)
+comment2.params=store\ filename
+comment2.target=void\ saveDatabase(RentalStore,\ java.lang.String)
+numComments=3

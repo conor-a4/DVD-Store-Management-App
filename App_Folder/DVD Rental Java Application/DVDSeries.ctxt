@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=DVDSeries
+comment1.params=title\ price\ rentalPeriod\ overduePricePerDay\ epNum\ epLength
+comment1.target=DVDSeries(java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getEpNum()
+comment3.params=
+comment3.target=int\ getEpLength()
+comment4.params=epNum
+comment4.target=void\ setEpNum(int)
+comment5.params=epLength
+comment5.target=void\ setEpLength(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

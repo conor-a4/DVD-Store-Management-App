@@ -1,0 +1,22 @@
+# Customers
+A101,John Doe,john.doe@gmail.com,1234567890,Silver
+A102,Jane Smith,jane.smith@gmail.com,9876543210,Gold
+A103,Bob Brown,bob.brown@gmail.com,1122334455,Bronze
+A104,Susan Lee,susan.lee@gmail.com,2233445566,Gold
+A111,TestCust,testcust@email.com,1234567890,gold
+
+# DVDs
+Series,Breaking Bad,20,5,80,62,45
+Movie,The Matrix,12,3,60,136,The Wachowskis
+
+# RentedDVDs
+Movie,Inception,10,2,50,148,Christopher Nolan
+Movie,Avatar,15,4,70,162,James Cameron
+Series,Stranger Things,18,6,90,34,50
+Series,Friends,25,7,100,60,22
+
+# Rentals
+A101,Inception,2024-12-01
+A102,Avatar,2024-12-02
+A103,Stranger Things,2024-12-03
+A104,Friends,2024-12-04

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Rental
+comment1.params=customer\ dvd\ rentalDate
+comment1.target=Rental(Customer,\ DVD,\ java.time.LocalDate)
+comment2.params=
+comment2.target=Customer\ getCust()
+comment3.params=
+comment3.target=DVD\ getDVD()
+comment4.params=
+comment4.target=java.time.LocalDate\ getRentalDate()
+comment5.params=
+comment5.target=java.time.LocalDate\ getReturnDate()
+comment6.params=returnDate
+comment6.target=double\ returnDVD(java.time.LocalDate)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
